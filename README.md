@@ -1,5 +1,5 @@
 # ResearchGraphCode
-Python data analysis template code used in the writing of my journal publication.
+<h2> Python data analysis template code used in the writing of my journal publication.</h2> 
 
 1.) FINAL-ANALYSIS-TEMPLATE-CODE.ipynb: Template data analysis that can be applied to dataframes 
 
